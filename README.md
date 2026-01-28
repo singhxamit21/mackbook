@@ -1,9 +1,5 @@
 <div align="center">
-  <br />
-    <a href="https://youtu.be/DEeaT6FxEws" target="_blank">
-      <img src="public/readme/hero.webp" alt="Apple MacBook Landing Page">
-    </a>
-  <br />
+ 
 
   <div>
     <img src="https://img.shields.io/badge/-React-58C4DC?style=for-the-badge&logo=React&logoColor=white" />
